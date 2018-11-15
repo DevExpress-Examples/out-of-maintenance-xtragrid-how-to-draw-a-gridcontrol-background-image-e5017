@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BackgroundImageHelper.cs](./CS/WindowsFormsApplication61/BackgroundImageHelper.cs) (VB: [BackgroundImageHelper.vb](./VB/WindowsFormsApplication61/BackgroundImageHelper.vb))
+* [Form1.cs](./CS/WindowsFormsApplication61/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication61/Form1.vb))
+* [Program.cs](./CS/WindowsFormsApplication61/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication61/Program.vb))
+<!-- default file list end -->
 # XtraGrid - How to draw a GridControl background image
 
 
